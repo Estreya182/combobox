@@ -1,0 +1,23 @@
+#pais{
+    margin-top: 170px;
+    margin-left: 750px;
+    background: white;
+    font-size: 14px;
+    height: 30px;
+    padding: 5px;
+    width: 250px;
+}
+#ciudad{
+    
+    background: transparent;
+    font-size: 14px;
+    height: 30px;
+    padding: 5px;
+    width: 250px;
+}
+#titulo{
+    margin-left: 40%;
+    margin-top: 100px;
+    
+}
+    
